@@ -23,7 +23,8 @@ title: 『分類語彙表』
 email: masayu-a@ninjal.ac.jp
 
 description: >- # this means to ignore newlines until "baseurl:"
-『分類語彙表』関連の Web ページです。
+ 『分類語彙表』関連の Web ページです。
+
 baseurl: "/WLSP" # the subpath of your site, e.g. /blog
 url: "https://masayu-a.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: masayu_a
