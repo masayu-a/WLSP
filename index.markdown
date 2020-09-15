@@ -35,7 +35,7 @@ permalink: /
 
 ## 検索ツール
 
-[Cradle](https://cradle.ninjal.ac.jp/)
+[Cradle](https://cradle.ninjal.ac.jp/wlsp)
 
 ## 書籍版との違い
 
